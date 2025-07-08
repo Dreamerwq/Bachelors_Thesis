@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Krynek"
+  given-names: "Tobiáš"
+title: "Bachelors_Thesis"
+version: 1.0.0
+date-released: 2025-07-08
+url: "https://github.com/Dreamerwq/Bachelors_Thesis"
